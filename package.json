@@ -2,7 +2,9 @@
   "name": "@xyz-projects/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "dev:med": "nx run med-journal:dev"
+  },
   "private": true,
   "dependencies": {
     "next": "14.2.3",
